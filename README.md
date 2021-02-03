@@ -1,5 +1,12 @@
 # elearning
 TUGAS UAS RKS 2021
+SISTEM ELEARNING (ELEARNING UNIVERSITAS) By Nova Maz ad Fikri 1800018273 - F
+
+Sistem ini dibuat menggunakan HTML, dan Javascript. dan dapat berjalan di desktop maupun mobile 
+Sistem ini dibuat dengan mengikuti rancangan design dan wireframe yang dibuat sebelumnya
+
+Berikut ini adalah link wireframe & UI Desain dari Sistem yang dikembangkan :
+https://drive.google.com/drive/u/1/folders/1x6t4MjPEOwYjlO6CqAp45obomFXvEDrv
 
 E LEARNING UNIVERSITAS
 tampilan awal login
