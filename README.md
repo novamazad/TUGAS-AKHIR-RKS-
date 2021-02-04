@@ -7,8 +7,8 @@ F
 
 Sistem ini dibuat menggunakan HTML, dan Javascript. dan dapat berjalan di desktop maupun mobile 
 Sistem ini dibuat dengan mengikuti rancangan design dan wireframe yang dibuat sebelumnya
-link design dan wireframe dapat dilihat di:
-https://drive.google.com/file/d/1YBBVeaNO3PNQKkrqtZPAhW1MtWiBAzla/view?usp=sharing
+link design dan wireframe awal dan yang sudah diubah dapat dilihat di:
+https://drive.google.com/drive/folders/1x6t4MjPEOwYjlO6CqAp45obomFXvEDrv?usp=sharing
 
 E LEARNING UNIVERSITAS
 tampilan awal login
